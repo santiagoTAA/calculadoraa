@@ -26,6 +26,3 @@ function division(){
 }
 function multiplicacion(){  
 }
-
-let aa =document.getElementById("aa")
-aa.innerHTML= '<input value="" placeholder="hola" > '
